@@ -24,4 +24,4 @@
   * `npm test`
 
 #### UML
-![UML: Lab 16](./assets/lab-16-uml.)
+![UML: Lab 16](./assets/lab-16-uml.jpg)
