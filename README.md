@@ -4,7 +4,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/adrianagraybill/lab-16/pull/2)
-* [travis]([![Build Status](https://travis-ci.com/adrianagraybill/lab-16.svg?branch=master)](https://travis-ci.com/adrianagraybill/lab-16))
+* [travis][![Build Status](https://travis-ci.com/adrianagraybill/lab-16.svg?branch=master)](https://travis-ci.com/adrianagraybill/lab-16)
 * [back-end](http://ec2-52-12-185-166.us-west-2.compute.amazonaws.com:3524/) Wanted an excuse to use my midterm project!!
 
 #### Documentation
