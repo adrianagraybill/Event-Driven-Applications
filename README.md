@@ -1,14 +1,11 @@
-# LAB - 
+# LAB - 16 Event Driven Applications
 
-## Project Name
-
-### Author: Student/Group Name
+### Author: Adriana with help from Jonny
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/adrianagraybill/lab-16/pull/2)
+* [travis]([![Build Status](https://travis-ci.com/adrianagraybill/lab-16.svg?branch=master)](https://travis-ci.com/adrianagraybill/lab-16))
 * [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
@@ -108,3 +105,4 @@ Running Mongo:
 * * Assertions need to be made for the /products route to check categories 
 
 #### UML
+![UML: Lab 16](./assets/lab-16-uml.)
