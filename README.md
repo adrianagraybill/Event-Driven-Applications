@@ -1,4 +1,4 @@
-# LAB - 16 Event Driven Applications
+# Event Driven Applications
 
 ### Author: Adriana with help from Jonny
 
